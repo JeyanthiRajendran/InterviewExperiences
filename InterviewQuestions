@@ -209,3 +209,53 @@ Internal working of hashmap
 Why override for hascode & equals
 Spring security & cloud
 How deployment will be done in ur projects. 
+
+TCS (Asked for another Candidate)
+---------------------------------
+JVM
+Is java fully object oriented - Reason behind that
+Static methods
+Abstract class vs Interface
+Package
+Imutable class
+Why is String immutable
+String and String buffer and String builder, String joiner
+Trainsent variables
+Auto boxing - Unboxing
+Wildcards
+Collection
+Comparable vs comparator
+Set vs Map
+Iterator vs list iterator
+Thread
+Thread synhronization
+Threads in spring
+Exception handling
+Custom exception
+Garbage collector
+Spring module - Details about Spring MVC
+Spring vs Spring Boot
+IOC - Dependency injection
+REST Api
+Rest vs Soap
+Graph QL
+How do we secure REST api
+@qualifier
+@exceptionhandler
+@controllerAdvise
+@Controller vs @RestController
+@Requestparam vs @Pathvariable
+@EnableAutoConfiguration
+@schedule - cronjob
+Rest HTTP methods - Explain Delete method
+There are lots of DB supported tools, why and when do we use those - eg, when to use crud/jpa/hibernate
+Why jpa repository
+Composite key
+@embeddedId
+Springboot data configurations
+jwt
+Builder design pattern
+Abstract factory design pattern
+Design patterns in spring framework
+jar to war - in spring boot - extending - springbootservletinilitizer
+
