@@ -1,5 +1,5 @@
-Accenture Interview Questions  (HireVue interview) - Dec'2020
---------------------------------------------------------------
+Accenture Interview Questions  (HireVue interview)
+---------------------------------------------------
 Stream API vs collection API
 Functional interface 
 Java 8 features 
@@ -13,6 +13,18 @@ Exchanges in RabbitMQ
 MongoDB Query 
 Logics implemented behind migration 
 How will you connect MongoDB in Pentaho DI
+Autowire annotation
+Exception annotation in spring boot - controller advice
+Controller vs RestController
+Volatile
+Race Condition
+Internal Workin of hashmap.
+Collections.synchronizedmap vs concurrenthashmap.
+Why string is immutable.
+Why equals to is compatible with CompareTo.
+Comparator Va comparable.
+How will you communicate between two microservices.
+
 
 Wipro
 -----
