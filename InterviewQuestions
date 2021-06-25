@@ -14,6 +14,27 @@ MongoDB Query
 Logics implemented behind migration 
 How will you connect MongoDB in Pentaho DI
 
+Wipro
+-----
+Api gateway
+Service discovery
+Spring actuator
+Bean in java
+Spring cloud
+Apache kafka
+Docker
+Kubernates
+Jenkins, git
+Testing tools and source code validation
+Validation
+Data inconsistency
+How communication happens betweens multiple Microservices.
+Different between array and arraylist
+Different between interface and abstract
+Ftp and sftp
+How files can be transferred to one server to another with file and metadata.
+OAuth
+Different between spring and spring boot
 
 Natwest (RBS)
 -------------
