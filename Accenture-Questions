@@ -1,5 +1,5 @@
-Accenture Interview Questions  (HireVue interview)
---------------------------------------------------
+Accenture Interview Questions  (HireVue interview) - Dec'2020
+--------------------------------------------------------------
 Stream API vs collection API
 Functional interface 
 Java 8 features 
@@ -13,3 +13,181 @@ Exchanges in RabbitMQ
 MongoDB Query 
 Logics implemented behind migration 
 How will you connect MongoDB in Pentaho DI
+
+
+Natwest (RBS)
+-------------
+1. Spring Dependency Injection ?
+2. Why it is IOC. Wat is that?
+3. How Dependency Injection is achieved.
+4. Statelessness in REST APIs
+5. Abstract & Interfaces
+6. Threads
+7. Synchronized
+8. Collections 
+9. @primary,@Controller Advice annotation in spring
+10. Rest API design
+11. Bean and its usage & bean scope
+12. Java8 Streams
+13. Streams Vs Collections
+14. If an API response takes time to load how will you optimize it. 
+15. How will you design an API url. Wat are the methods you will consider?
+16. Pair programming in codinginterview.io
+17. CI/CD Pipeline
+18. If you make any changes in code how will you commit who will approve Git related and How the codes will be moved from dev to PDN. 
+19. constructor injection vs dependency injection
+20. SOLID Principles
+21. Serialization
+22. How will you write Immutable Class.
+23. Why a class to be mutable?
+24. Optional Keyword
+
+Cisco 
+-----
+Implement Iternal Implementation of LinkedHashMap
+Implement a logger to fetch the logs of particular date and time in O(1) complexity.
+
+WhiteDataSystems
+----------------
+Arrays vs ArrayList
+Java8 Streams
+Bean Scope
+Access Modifiers 
+Functional Interfaces
+Spring Dependency Injection ?
+What is IOC
+How Dependency Injection is achieved.
+Hibernate Qns - ORM , HQL
+Collections based on some scenario
+caching 
+Performance optimization tools
+CI/CD Pipeline
+Spring Actutor
+OAuth
+JVM types of Memory . 
+If i want to deploy a jar how will you mention the memory space required for it to execute.
+Executor service in framework
+Spring boot vs Spring
+maven build life cycle
+Jenkins job configuration
+collections
+restapi with its annotations
+
+MindTree
+--------
+Eagar Initialization
+Lazy Initialization
+Internal working of HashMap
+Which one is you prefer ArrayList / Linkedlist 
+If i want my Hashmap data to be same as the insertion order . Wat will u do. - ans : LinkedHashMap
+Method Overloading - Scenario.
+If we are having 2 beans then which one to use : @qualifier annotation
+Abstraction.
+Factory Pattern & how will you use it.
+How will you connect 2 databases to an application in boot and set only one to default DB
+Types of Optional in Java
+Streams
+Functional Interfaces
+Lambda Expressions.
+Features of Java8.
+Some scenario. Give the annotations to create a rest api and wat and all wil you do .
+Spring Actutor
+
+Mindtree -> Selected -> 
+ 
+
+WellsFargo 
+----------
+FunctionalInterface. Why Default is allowed in java8 when we are having static . 
+HashMap and @Override of hashcode necessary . Why there is a need for creating 2 objects. Explain with code sample.
+SAGA pattern in microservices.
+ParellelStream -> If am hving 1000 how many will it take for parallel
+Lambda Expression 
+Circular Dependency and how will you fix it immediately.
+Abstract Vs Interfaces
+Race condition
+Executor Framework 
+Why static when we have default
+Can we have many lamba expressions if we have one abstract in functional interface.
+
+HCL
+---
+JVM Architecture & Memory in detail. Wat will store in Heap , stack etc.
+Communication b/w microservices
+Where will you configure the domain if i have dev,uat,pdn
+What are the configurations in application.yml
+Will you have multiple application yml files if we go for multiple servers
+TreeMap Explain 
+Can we pass string, boolean types of data in treemap
+FunctionalInterface
+Synchronized
+Serialization & how to use it 
+If my Super class is serializable , Is it necessary that my subclass also serialized ?
+If i have a list of numbers then how will you find the missing number
+Wat is the builtin Lambda expression - Runnable 
+Threading
+@RequestMapping , @Request body , @Request Param. 
+Custom Validation Exception . How will you create it . Wat annotation will be used.
+Interna working of HashMap. Why Equals & Hashcode
+ConcurrentHashMap
+Immutable class
+Can we have both synchronized & nonsynchronized methods. Which one will start execute first . 
+Post Mapping & When we go for it 
+Get Mapping 
+Delete api and how will you delete it & throw custom exception
+What are the security you handled. Explained about Spring Security 
+If i want to delete one parent class table data and its correspondent child table data should get deleted . How will you do tat . - With the help of Hibernate Annotation. ( @OneToMany)
+JPA
+
+
+Cognizant
+---------
+1. Custom exceptions and why we need it & how will you do it in spring boot. 
+2. Find Highest salary of an employee using streams.
+3. Wat will you consider if you are writing a microservice.
+4. Git 
+5. For transaction secured data's you will choose spring boot or db 
+6. Maven and how will you do it in ur projects . - Explained pom file and deployments comments.
+7. Cloud and microservice how will deploy in it.
+8.  Junit Test case
+9.  Mockito
+10. Features of java 8 and wat and all used in ur project.
+11. Docker and Kubernates. How it will work together.
+12. Wat are the design patterns in microservices you consider for creatin a new one.
+13. Spring annotations used in projects .
+14. Rest api and how will you write it . Explain with annotations. 
+15. If one client needs json response with all user data and if another client says hide that address data . Wat will you do . -> Use  @JsonIgnore
+16. How will you write a test case for an api using mockito.
+17. Wat are your strength when u write a code.
+18. Why u choose to be a developer.
+19. Code standards.
+20. Microservices on AWS.
+21. Is it possible to use two databases for one microservice.
+
+
+TCS
+----
+Java 8 Streams, Functional Interfaces, Lambda expression, optional 
+Comparator Vs Comparable
+find the first non repeating element using java 8 eg:[1,2,1,2,4,3] => 4
+@ResponseBody 
+Controller Vs Rest Controller
+Component vs ComponentScan
+What are the ways to create a bean 
+Qualifier annotation
+configuration annotation
+@Autowired
+ArrayList Vs LinkedList
+ConcurerntHashMap
+Explicit iterator vs implicit iterator
+@SpringBootApplication
+Injecting Spring Prototype bean into Singleton bean
+If my super class is singleton and my subclass is Prototype how it will work & Viceversa
+Bean scopes explain all singleton,prototype,request,session
+Wat are the design patterns in microservcies and used in ur projects.
+DB connectivity - JPA
+Junit Testing annotations
+Internal working of hashmap
+Why override for hascode & equals
+Spring security & cloud
+How deployment will be done in ur projects. 
