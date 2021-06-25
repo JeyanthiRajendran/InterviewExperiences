@@ -24,6 +24,7 @@ Why string is immutable.
 Why equals to is compatible with CompareTo.
 Comparator Va comparable.
 How will you communicate between two microservices.
+NoclassDefounderror vs ClassNotFoundException
 
 Wipro
 -----
