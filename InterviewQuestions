@@ -311,3 +311,4 @@ Caching
 if two objects has the same hashcode explain what will happen.
 clustering
 Copy one table to another with all data and its duplicate values in MySQL.
+how will you handle SQLException  - It is checked or unchecked exception
