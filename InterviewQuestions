@@ -275,7 +275,7 @@ jar to war - in spring boot - extending - springbootservletinilitizer
 
 
 ChargeBee - Round 1
-
+--------------------
 Program in string manipulation. 
 Input : aabbbbbccdddeeeaaa
 Output: a2b5c2d3e3a3
@@ -291,3 +291,23 @@ EmpID EmpName Salary ManagerID
 2      Emp2   6L     	1
 3      Emp3   14L     	1
 4      Emp4   9L     	1
+
+ITC infotech 
+-------------
+Join in thread
+States of thread
+Connection Pooling
+Dialect
+HashMap Vs ConcurrentHashMap
+ConcurrentHashMap vs HashTable
+OAuth implementation - How it works
+Authorization Vs Authentication
+AMQP in detail
+Spring security
+Array Vs ArrayList
+Topic Vs Queue
+One Program to find the missing and get the duplciates count like : {1,6,3,4,1,1} : o/p : 2,5 (missing) , count 3(Duplcate 1's count ) 
+Caching 
+if two objects has the same hashcode explain what will happen.
+clustering
+Copy one table to another with all data and its duplicate values in MySQL.
