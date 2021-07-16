@@ -306,9 +306,10 @@ AMQP in detail
 Spring security
 Array Vs ArrayList
 Topic Vs Queue
-One Program to find the missing and get the duplciates count like : {1,6,3,4,1,1} : o/p : 2,5 (missing) , count 3(Duplcate 1's count ) 
+One Program to find the missing and get the duplciates count like : {1,6,3,4,1,1} : o/p : 2,5 (missing) , count 3 ( Duplcate 1's count ) - https://www.geeksforgeeks.org/find-a-repeating-and-a-missing-number/
 Caching 
 if two objects has the same hashcode explain what will happen.
 clustering
 Copy one table to another with all data and its duplicate values in MySQL.
 how will you handle SQLException  - It is checked or unchecked exception
+
